@@ -14,4 +14,4 @@ def kaprekarNumbers(p, q):
             k=-1
     if k==0:
         print("INVALID RANGE")
-in this question str is used to split each digit as an string it is an inbuilt function 
+#in this question str is used to split each digit as an string it is an inbuilt function 
